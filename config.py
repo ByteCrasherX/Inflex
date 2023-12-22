@@ -48,8 +48,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TeamInflex")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/InflexSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ZenBotx")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/QuirkySquad")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -99,7 +99,7 @@ TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL", "https://graph.org/file/9d75bfb77e17b80b3da5b.png"
 )
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://te.legra.ph/file/693694b0d94afa372ca5a.jpg"
+    "STREAM_IMG_URL", "https://telegra.ph/file/50966c5d0b75dab89dbc8.jpg"
 )
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL", "https://te.legra.ph/file/f72ea4bd955c418c724e1.jpg"
